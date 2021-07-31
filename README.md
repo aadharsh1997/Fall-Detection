@@ -2,6 +2,7 @@
 An algorithm capable of detecting a fall based on accelerometric values and giving out alerts on the detection of a fall. 
 
 Working Principal
+
 •	The values of all three axes of the accelerometer are read.
 
 •	The root mean square of these values is calculated to obtain the reading which is used for fall detection. The reading value at rest is found to be 1.73 units.
